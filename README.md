@@ -11,10 +11,10 @@ We're building <strong>GIGS</strong> - A website where creators of art (e.g: wri
 Write code for:
 1. Readability
 - Imagine the person reviewing your code has an axe and knows your house address
-3. Modularity
+2. Modularity
 - How easy is it to reuse bits of your code?
 - When you have an error, how easy is it to narrow down to the exact section of code that's responsible for a problem
-4. Efficiency
+3. Efficiency
 - How fast does this work?
-5. Length
+4. Length
 ### <strong>Thank you in advance for contributing to the success of this project!</strong>
