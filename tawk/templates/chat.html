@@ -1,0 +1,13 @@
+{% load tawkto_tags %} 
+<!DOCTYPE html>
+<html lang="en">
+<head> <meta charset="UTF-8"> <title>Live support</title>
+</head>
+<body> 
+<h1>Chat with an agent.</h1> 
+<textarea cols="150" rows="20"> {% tawkto_script user_name='User test' user_email='example@example.com' %} 
+</textarea> 
+<textarea cols="150" rows="20"> {% tawkto_script widget_id='somewidgetid' %}
+ </textarea> 
+ {% tawkto_script user_name='User test' user_email='example@example.com' %} </body>
+ </html>
